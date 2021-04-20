@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="repository.abratchik"
-    version="1.0.0"
+    version="1.0.1"
     name="Alex Bratchik Kodi repository"
     provider-name="Alex Bratchik">
     <extension point="xbmc.addon.repository">
